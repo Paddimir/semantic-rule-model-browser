@@ -1,3 +1,11 @@
+# Random auxiliary stuff
+assets
+
+# Word2vec models
+word_embeddings/cz/*
+word_embeddings/en/*
+!.gitkeep
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
