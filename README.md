@@ -47,6 +47,6 @@ The tool will then prompt you to choose from one of the supplied data sets (usin
 
 Another runnable module is `semantics.py`. You can start by running
 
-```python rule_browser.py```
+```python semantics.py```
 
 which will enable you to continually determine word similarities between arbitrary words using the aforementioned word2vec model.
